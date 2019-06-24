@@ -28,7 +28,7 @@ return {
 	ANNOUNCE_BEES = "Hey there little stingies!",
 	ANNOUNCE_BOOMERANG = "Ow! I should try to catch that!",
 	ANNOUNCE_CHARLIE = "Hmm it said the name was Ch..ar.lin",
-	ANNOUNCE_CHARLIE_ATTACK = "OW! Something bit me!",
+	ANNOUNCE_CHARLIE_ATTACK = "That was some cheap move, Charlie",
 	ANNOUNCE_COLD = "someone need huggies ...",
 	ANNOUNCE_HOT = "Need... ice... or... shade!",
 	ANNOUNCE_CRAFTING_FAIL = "I don't have all of the ingredients.",
@@ -42,13 +42,13 @@ return {
 		STALE = " Even my ghost half can't eat this!",
 		INVALID = "Not very edible for me",
 	},
-	ANNOUNCE_ENTER_DARK = "There comes the dark",
-	ANNOUNCE_ENTER_LIGHT = "I can see again!",
+	ANNOUNCE_ENTER_DARK = "Here comes the darkness",
+	ANNOUNCE_ENTER_LIGHT = "Oh, Light!",
 	ANNOUNCE_FREEDOM = "I'd better get back to the Palace with Ms Yuyuko",
-	ANNOUNCE_HIGHRESEARCH = "I feel so smart now!",
+	ANNOUNCE_HIGHRESEARCH = "Enlightment",
 	ANNOUNCE_HOUNDS = "It should be the puppies~",
 	ANNOUNCE_HUNGRY = "My stomach is as thin as my blade ...",
-	ANNOUNCE_HUNT_BEAST_NEARBY = "This... better worths it",
+	ANNOUNCE_HUNT_BEAST_NEARBY = "This better worths the time",
 	ANNOUNCE_HUNT_LOST_TRAIL = "I lost the hunt",
 	ANNOUNCE_HUNT_LOST_TRAIL_SPRING = "The weather tells me not to hunt the poor beast",
 	ANNOUNCE_INV_FULL = "It is already too much",
@@ -89,19 +89,19 @@ return {
 	
 	BATTLECRY =
 	{
-		GENERIC = "Feast my blade, you dumblings",
-		PIG = "Here piggy piggy!",
-		PREY = "For my belly!",
-		SPIDER = "Wrong day, folks",
-		SPIDER_WARRIOR = "Entertain me, Yellows",
+		GENERIC = "Duel me",
+		PIG = "Some proteins should be good",
+		PREY = "A lively offering for me!",
+		SPIDER = "And you call yourself a monster",
+		SPIDER_WARRIOR = "This shouldn't be too easy",
 	},
 	COMBAT_QUIT =
 	{
 		GENERIC = "I sure showed him!",
 		PIG = "I'll let him go. This time.",
 		PREY = "He's too fast!",
-		SPIDER = "He's too gross, anyway.",
-		SPIDER_WARRIOR = "Shoo, you nasty thing!",
+		SPIDER = "I leave",
+		SPIDER_WARRIOR = "You've proven your scariness",
 	},
 	DESCRIBE =
 	{
