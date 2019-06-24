@@ -13,9 +13,9 @@ return {
 	{
 		SHAVE =
 		{
-			AWAKEBEEFALO = "I'm not going to try that while he's awake.",
-			GENERIC = "I can't shave that!",
-			NOBITS = "they look kinna skinny ...",
+			AWAKEBEEFALO = "Let's wait til he's asleep ~",
+			GENERIC = "Is this how this should be used ?",
+			NOBITS = "At least he is warmer than my ghost half ...",
 		},
 		STORE =
 		{
@@ -36,22 +36,22 @@ return {
 	ANNOUNCE_DUSK = "The sky breaths its final lights",
 	ANNOUNCE_EAT =
 	{
-		GENERIC = "Yum!",
+		GENERIC = "offering for my ghost half !",
 		PAINFUL = "Just some weird cuisines",
-		SPOILED = "Better for the fire than my stomach",
-		STALE = "It still got some taste left",
-		INVALID = "I can't eat that!",
+		SPOILED = "I think it's half-dead ... like me",
+		STALE = " Even my ghost half can't eat this!",
+		INVALID = "Not very edible for me",
 	},
-	ANNOUNCE_ENTER_DARK = "Hello darkness, long time don't see",
+	ANNOUNCE_ENTER_DARK = "There comes the dark",
 	ANNOUNCE_ENTER_LIGHT = "I can see again!",
-	ANNOUNCE_FREEDOM = "I'm free! I'm finally free!",
+	ANNOUNCE_FREEDOM = "I'd better get back to the Palace with Ms Yuyuko",
 	ANNOUNCE_HIGHRESEARCH = "I feel so smart now!",
-	ANNOUNCE_HOUNDS = "Hmm... dogs?",
-	ANNOUNCE_HUNGRY = "Foo...od zzz...",
-	ANNOUNCE_HUNT_BEAST_NEARBY = "There you are",
-	ANNOUNCE_HUNT_LOST_TRAIL = "The trail ends here.",
-	ANNOUNCE_HUNT_LOST_TRAIL_SPRING = "The wet ground won't hold a footprint.",
-	ANNOUNCE_INV_FULL = "I can't carry any more stuff!",
+	ANNOUNCE_HOUNDS = "It should be the puppies~",
+	ANNOUNCE_HUNGRY = "My stomach is as thin as my blade ...",
+	ANNOUNCE_HUNT_BEAST_NEARBY = "This... better worths it",
+	ANNOUNCE_HUNT_LOST_TRAIL = "I lost the hunt",
+	ANNOUNCE_HUNT_LOST_TRAIL_SPRING = "The weather tells me not to hunt the poor beast",
+	ANNOUNCE_INV_FULL = "It is already too much",
 	ANNOUNCE_KNOCKEDOUT = "Ugh, my head!",
 	ANNOUNCE_LOWRESEARCH = "I didn't learn very much from that.",
 	ANNOUNCE_MOSQUITOS = "Aaah! Bug off!",
